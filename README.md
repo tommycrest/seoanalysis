@@ -1,8 +1,7 @@
 # SEMRush Keyword Search Volume analysis script
 
 Before using this script you need to:
-
-# To Do
+# 
 - Register and gether the API KEY from SEMRush platform and insert it inside the script on the placeholder <YOUR-API-KEY>.
 - Inserting the keyword you need to analyse inside the file query.txt
 - Update the script with your <API-KEY>
